@@ -1,2 +1,2 @@
 link: https://israelcoder.github.io/clock/
-a simple watch !
+a simple clock !
