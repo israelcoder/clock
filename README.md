@@ -1,2 +1,2 @@
-link: https://israelcoder.github.io/clock/
+link: https://aclock.vercel.app/
 a simple clock !
