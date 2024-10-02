@@ -1,1 +1,2 @@
-![image](https://github.com/user-attachments/assets/3864bb0c-8903-47c5-b7f0-11afa423ded6)
+![alt text](<Captura de tela 2024-10-02 090454.png>)
+![alt text](<Captura de tela 2024-10-02 090705.png>)
