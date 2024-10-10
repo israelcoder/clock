@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "next": "14.2.15",
+    "nextreact_clock": "file:",
     "react": "^18",
     "react-dom": "^18"
   },
